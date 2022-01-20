@@ -1,0 +1,18 @@
+﻿  ffsdl.cpp
+d:\vs\ffsdl\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs\ffsdl\ffsdl\ffsdl.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs\ffsdl\ffsdl\ffsdl.cpp(80): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\vs\ffsdl\include\libavformat\avformat.h(888): note: 参见“AVStream::codec”的声明
+d:\vs\ffsdl\ffsdl\ffsdl.cpp(89): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\vs\ffsdl\include\libavformat\avformat.h(888): note: 参见“AVStream::codec”的声明
+d:\vs\ffsdl\ffsdl\ffsdl.cpp(66): warning C4996: 'av_register_all': 被声明为已否决
+  d:\vs\ffsdl\include\libavformat\avformat.h(1955): note: 参见“av_register_all”的声明
+d:\vs\ffsdl\ffsdl\ffsdl.cpp(148): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+  d:\vs\ffsdl\include\libavcodec\avcodec.h(3096): note: 参见“avcodec_decode_video2”的声明
+d:\vs\ffsdl\ffsdl\ffsdl.cpp(181): warning C4996: 'av_free_packet': 被声明为已否决
+  d:\vs\ffsdl\include\libavcodec\packet.h(569): note: 参见“av_free_packet”的声明
+d:\vs\ffsdl\ffsdl\ffsdl.cpp(186): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+  d:\vs\ffsdl\include\libavcodec\avcodec.h(3096): note: 参见“avcodec_decode_video2”的声明
+d:\vs\ffsdl\ffsdl\ffsdl.cpp(52): warning C4101: “y_size”: 未引用的局部变量
+d:\vs\ffsdl\ffsdl\ffsdl.cpp(64): warning C4101: “fp_yuv”: 未引用的局部变量
+  ffsdl.vcxproj -> D:\Vs\ffsdl\x64\Debug\ffsdl.exe

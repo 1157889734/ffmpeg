@@ -1,0 +1,18 @@
+﻿  codectest.cpp
+d:\vs\codectest\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs\codectest\codectest\codectest.cpp(165): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs\codectest\codectest\codectest.cpp(167): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\vs\codectest\include\libavformat\avformat.h(888): note: 参见“AVStream::codec”的声明
+d:\vs\codectest\codectest\codectest.cpp(179): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\vs\codectest\include\libavformat\avformat.h(888): note: 参见“AVStream::codec”的声明
+d:\vs\codectest\codectest\codectest.cpp(211): warning C4996: 'av_register_all': 被声明为已否决
+  d:\vs\codectest\include\libavformat\avformat.h(1955): note: 参见“av_register_all”的声明
+d:\vs\codectest\codectest\codectest.cpp(253): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+  d:\vs\codectest\include\libavcodec\avcodec.h(3096): note: 参见“avcodec_decode_video2”的声明
+d:\vs\codectest\codectest\codectest.cpp(270): warning C4996: 'avcodec_decode_audio4': 被声明为已否决
+  d:\vs\codectest\include\libavcodec\avcodec.h(3047): note: 参见“avcodec_decode_audio4”的声明
+d:\vs\codectest\codectest\codectest.cpp(279): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uint64_t”
+  d:\vs\codectest\codectest\codectest.cpp(279): note: 请考虑在格式字符串中使用“%llu”
+  d:\vs\codectest\codectest\codectest.cpp(279): note: 请考虑在格式字符串中使用“%Iu”
+  d:\vs\codectest\codectest\codectest.cpp(279): note: 请考虑在格式字符串中使用“%I64u”
+  codectest.vcxproj -> D:\Vs\codectest\x64\Debug\codectest.exe
